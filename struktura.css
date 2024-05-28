@@ -1,0 +1,17 @@
+pizzeria-project/
+│
+├── README.md
+├── menu.md
+├── description.md
+├── contact.md
+├── gallery/
+│   ├── interior1.jpg
+│   ├── interior2.jpg
+│   ├── pizza1.jpg
+│   └── pizza2.jpg
+├── branches/
+│   ├── feature_branch/
+│   │   └── additional_info.md
+│   └── main/
+│       └── main_info.md
+└── .gitignore
