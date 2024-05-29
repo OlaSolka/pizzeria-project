@@ -1,6 +1,6 @@
 # Menu
 
-## Pizzas
+## Pizza
 
 - **Margherita**
   - Tomato sauce, mozzarella, basil
